@@ -1,3 +1,3 @@
 # Listado de colaboradores
 * Eduardo Ismael
-* Alberto de la cruz
+* Alberto de la cruz alcantara
