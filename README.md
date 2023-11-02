@@ -1,2 +1,2 @@
 # Listado de colaboradores
-* Eduardo Ismael
+* Eduardo Ismael Firulais Choto Perez
